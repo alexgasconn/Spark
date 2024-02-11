@@ -1,0 +1,48 @@
+id;date;location;teammate;rival1;rival2;result;score;team;indiv
+1;16/10/2021;Montgat;Martina;JoanF;Marta;W;4-6, 6-4, 6-4;9;8
+2;06/11/2021;Cerdanyola;Martina;Andreu;Mireia;L;4-6, 6-2, 4-6;8;6
+3;13/11/2021;Polinyà;Martina;Uri;Carol;W;3-6, 6-3, 6-2;8,5;8,25
+4;20/11/2021;Montgat;Adri;JoanF;Marta;N;6-2, 6-7, 4-2;6;7
+5;27/11/2021;Granollers;Martina;Roger Carres;Carol;L;;7;7
+6;04/12/2021;Montgat;JoanF;Raul;Pol;W;6-4, 4-6, 6-4;7;7
+7;26/12/2021;Montgat;Martina;Andreu;Mireia;N;6-0, 4-6;8;7
+8;03/01/2022;Granollers;Martina;Mariona;Carol;N;;7,5;6,5
+9;06/01/2022;Granollers;Martina;Roger Carres;Pau;L;;6;6
+10;15/01/2022;Polinyà;JoanF;Adri;Victor L;L;6-4, 4-6, 4-6;7;9
+11;21/01/2022;Espronceda;JoanF;Max;Marcvi;L;1-6, 6-4, 4-6;6,5;7
+12;05/02/2022;Granollers;Martina;Roger Carres;Papa Carres;L;;5;3
+13;19/02/2022;Montgat;Marti;Marta;Dani Roncel;N;;3;5
+14;20/02/2022;Montgat;Martina;Marta;Marti;N;;6;6
+15;26/02/2022;Montgat;Martina;Marta;Marti;W;6-2, 6-1, 6-4;9;8
+16;09/04/2022;Cerdanyola;Martina;Andreu;Mireia;W;6-0, 7-6;9;6
+17;26/04/2022;Glories;JoanF;Uri;JoanG;W;;5;6
+18;25/06/2022;Montgat;Martina;JoanF;Marta;W;1-6, 6-0, 6-4;5;5
+19;13/07/2022;Montgat;Marta;Mireia;Carol;W;6-4, 6-1;8,5;9
+20;28/07/2022;Polinyà;Martina;Xipi;Marta;N;4-6, 6-4, 4-4;5;4
+21;08/08/2022;Granollers;Martina;Xipi;Aspa;N;;6;3
+22;16/08/2022;LTC;Oscar;Dani Tena;Laia;N;;;
+23;20/08/2022;LTC;Oscar;Dani Tena;Laia;N;;;
+24;23/08/2022;Granollers;Martina;Xipi;Dani Tena;W;;9;8,5
+25;03/09/2022;Mollet;Martina;JoanF;Carol;W;7-5, 6-3;9;8
+26;04/09/2022;Cerdanyola;Marc Mañe;Dani Tena;Laia;W;7-5, 1-6, 6-4;2;7
+27;18/09/2022;Lliçà;Roger Gordillo;JoanF;Marta;W;7-5, 6-7, 6-4;5;7
+28;01/10/2022;Granollers;Martina;Roger Carres;Pau;L;4-6, 4-6;8;7
+29;15/10/2022;Lliçà;Martina;Andreu;Mireia;W;6-3, 7-5;7,5;6
+30;22/10/2022;Glories;Uri;JoanF;JoanG;W;6-1, 6-2;5;5
+31;19/11/2022;Mollet;Martina;JoanF;Carol;W;7-5, 6-2;8;5
+32;01/12/2022;Sant Martí;JoanG;Judith;Guille;N;;;
+33;11/12/2022;Granollers;Martina;Xipi;Gisela;W;6-4, 6-2;6,5;6
+34;26/12/2022;Polinyà;Martina;Roger Carres;Papa Carres;L;5-7, 3-6;8,5;7
+35;03/03/2023;Lliçà;Martina;JoanF;Carol;W;6-4, 4-6, 6-4;7;7
+36;17/03/2023;Vallromanes;Xipi;JoanF;JoanG;N;7-5, 1-6, 1-3;5;9
+37;05/06/2023;Polinyà;Uri;Andrea;Carol;W;2-6, 6-3, 6-4;7;7,5
+38;03/09/2023;Lliçà;Carol;JoanF;Marta;W;6-4, 6-4;6,5;7
+39;25/09/2023;Glories;JoanG;JoanF;Uri;W;6-3, 6-4;7;7,5
+40;08/10/2023;Granollers;Xipi;JoanF;JoanG;L;0-6, 6-2, 4-6;3,5;5
+41;14/10/2023;Polinyà;Carol;Andreu;Mireia;W;7-6 6-4;6;5
+42;21/10/2023;Cornellà;Carol;JoanJ;Sara;W;6-4, 4-6, 6-4;5;3
+43;08/12/2023;Terrassa;JoanF;Dani Tena;Laia;W;7-6, 6-4;6;6
+44;10/12/2023;Granollers;Xipi;JoanF;JoanG;N;6-4, 4-6;8;8,7
+45;17/12/2023;Polinyà;JoanF;Dani Tena;Laia;W;6-4, 7-5;5;4
+46;26/12/2023;Polinyà;Martina;Andreu;Mireia;L;3-6, 6-1, 5-7;6;5,5
+47;16/01/2024;La Pau;Aroa;Andreu;Adria Framer;W;6-2, 7-5;8;7
